@@ -19,7 +19,7 @@ public class Main {
 		do {
 			System.out.println("\n\n                   ATIVIDADE FINAL ESTRUTURA DE DADOS");
 			System.out.println("\n                 ALUNO: MARCELO GOMES | MATRÍCULA:2124666");
-			System.out.println("\n\n                      --- MENU AGENDA TELEFONICA ---");
+			System.out.println("\n\n                    ---- MENU AGENDA TELEFONICA ----");
 			System.out.println("\n                  ===================================");
 			System.out.println("                  |     1 - Adicionar contato         |");
 			System.out.println("                  |     2 - Remover contato           |");
